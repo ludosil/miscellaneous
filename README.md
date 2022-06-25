@@ -11,4 +11,4 @@ Learning data science has been on my to-do list for a few years. This is a colle
 
 [Principal components analysis](pca.ipynb)
 
-[Decision trees](decision_trees.ipynb)
+[Decision trees](decision_tree.ipynb)
