@@ -7,3 +7,5 @@ Assorted notes from various courses and topics I'm interested in. Mostly stand-a
 [Principal components analysis](pca.ipynb)
 
 [Decision trees](decision_tree.ipynb)
+
+[Nature's algorithms](nature_algorithms.ipynb)
