@@ -5,10 +5,11 @@ This was a fun course and very well taught. The notebooks below are an attempt t
 
 [Adversarial search](adversarial_search.ipynb)
 
+[Bayes nets](bayes_nets.ipynb)
 
 # Data science
 Learning data science has been on my to-do list for a few years. This is a collection of assorted notes on different topics. 
 
 [Principal components analysis](pca.ipynb)
 
-[Decision trees](decision_trees.ipynb)
+[Decision trees](decision_tree.ipynb)
